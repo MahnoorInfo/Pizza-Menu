@@ -1,15 +1,15 @@
 
 # 24 hour format used for open/close hour feature. ( 0 - 23 ) 
 
-0 represents 12:00 AM (midnight)
-1 represents 1:00 AM
-2 represents 2:00 AM
-...
-12 represents 12:00 PM (noon)
-13 represents 1:00 PM
-...
-22 represents 10:00 PM
-23 represents 11:00 PM
+0 represents 12:00 AM (midnight)   <br/>
+1 represents 1:00 AM           <br/>
+2 represents 2:00 AM          <br/>
+...                                 <br/>
+12 represents 12:00 PM (noon)    <br/>
+13 represents 1:00 PM    <br/>
+...                           <br/>
+22 represents 10:00 PM        <br/>
+23 represents 11:00 PM                <br/>
 
 
 
