@@ -2,8 +2,8 @@ import OrderTime from "../OrderTime";
 
 function Footer() {
   const currentHour = new Date().getHours();
-  const openingHour = 12;
-  const closingHour = 22;
+  const openingHour = 12; // opening hour (12PM)
+  const closingHour = 22; // closing hour (10PM)
   const isOpen = currentHour >= openingHour && currentHour <= closingHour;
 
   return (
